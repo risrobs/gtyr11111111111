@@ -32,7 +32,7 @@ html {
     display: visible;
   }
 }
-@media only screen and (max-width: 601px) {
+@media only screen and (min-width: 601px) {
   div.navbar-burger {
     display: none;
   }
